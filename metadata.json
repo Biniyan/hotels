@@ -1,0 +1,10 @@
+{
+  "name": "Maheswari Multi Cuisine Restaurant",
+  "description": "Authentic 100% pure vegetarian royal dining, lightning-fast mobile ordering, instant table reservations, and geofenced kitchen verification.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
